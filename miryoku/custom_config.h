@@ -1,6 +1,8 @@
 // Copyright 2021 Manna Harbour
 // https://github.com/manna-harbour/miryoku
 
+#define MIRYOKU_NAV_VI
+
 #if !defined (MIRYOKU_LAYOUTMAPPING_LILY58)
 
 #define XXX &none
